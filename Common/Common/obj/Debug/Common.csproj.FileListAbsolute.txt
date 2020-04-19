@@ -1,0 +1,15 @@
+E:\Temp____________\Windows_Lessons_Part_4____17_02_2019\15_Remoting\15_02_Plus_int_SingleCall\Common\Common\bin\Debug\Common.dll
+E:\Temp____________\Windows_Lessons_Part_4____17_02_2019\15_Remoting\15_02_Plus_int_SingleCall\Common\Common\bin\Debug\Common.pdb
+E:\Temp____________\Windows_Lessons_Part_4____17_02_2019\15_Remoting\15_02_Plus_int_SingleCall\Common\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\Temp____________\Windows_Lessons_Part_4____17_02_2019\15_Remoting\15_02_Plus_int_SingleCall\Common\Common\obj\Debug\Common.dll
+E:\Temp____________\Windows_Lessons_Part_4____17_02_2019\15_Remoting\15_02_Plus_int_SingleCall\Common\Common\obj\Debug\Common.pdb
+D:\יובל\Whist\Project\15_02_Plus_int_SingleCall\Common\Common\bin\Debug\Common.dll
+D:\יובל\Whist\Project\15_02_Plus_int_SingleCall\Common\Common\bin\Debug\Common.pdb
+D:\יובל\Whist\Project\15_02_Plus_int_SingleCall\Common\Common\obj\Debug\Common.dll
+D:\יובל\Whist\Project\15_02_Plus_int_SingleCall\Common\Common\obj\Debug\Common.pdb
+D:\יובל\Whist\Project\15_02_Plus_int_SingleCall\Common\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\Common\Common\bin\Debug\Common.dll
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\Common\Common\bin\Debug\Common.pdb
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\Common\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\Common\Common\obj\Debug\Common.dll
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\Common\Common\obj\Debug\Common.pdb

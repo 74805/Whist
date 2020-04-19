@@ -1,0 +1,66 @@
+D:\יובל\Whist\Project\15_02_Plus_int_SingleCall\Client3\Client3\bin\Debug\Client3.exe.config
+D:\יובל\Whist\Project\15_02_Plus_int_SingleCall\Client3\Client3\bin\Debug\Client3.exe
+D:\יובל\Whist\Project\15_02_Plus_int_SingleCall\Client3\Client3\bin\Debug\Client3.pdb
+D:\יובל\Whist\Project\15_02_Plus_int_SingleCall\Client3\Client3\bin\Debug\Common.dll
+D:\יובל\Whist\Project\15_02_Plus_int_SingleCall\Client3\Client3\bin\Debug\Common.pdb
+D:\יובל\Whist\Project\15_02_Plus_int_SingleCall\Client3\Client3\obj\Debug\Client3.csprojAssemblyReference.cache
+D:\יובל\Whist\Project\15_02_Plus_int_SingleCall\Client3\Client3\obj\Debug\Client3.Properties.Resources.resources
+D:\יובל\Whist\Project\15_02_Plus_int_SingleCall\Client3\Client3\obj\Debug\Client3.csproj.GenerateResource.cache
+D:\יובל\Whist\Project\15_02_Plus_int_SingleCall\Client3\Client3\obj\Debug\Client3.csproj.CopyComplete
+D:\יובל\Whist\Project\15_02_Plus_int_SingleCall\Client3\Client3\obj\Debug\Client3.exe
+D:\יובל\Whist\Project\15_02_Plus_int_SingleCall\Client3\Client3\obj\Debug\Client3.pdb
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\Client3\Client3\bin\Debug\Client3.exe.config
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\Client3\Client3\bin\Debug\Client3.exe
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\Client3\Client3\bin\Debug\Client3.pdb
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\Client3\Client3\bin\Debug\Common.dll
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\Client3\Client3\bin\Debug\Common.pdb
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\Client3\Client3\obj\Debug\Client3.csprojAssemblyReference.cache
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\Client3\Client3\obj\Debug\Client3.Properties.Resources.resources
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\Client3\Client3\obj\Debug\Client3.csproj.GenerateResource.cache
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\Client3\Client3\obj\Debug\Client3.csproj.CopyComplete
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\Client3\Client3\obj\Debug\Client3.exe
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\Client3\Client3\obj\Debug\Client3.pdb
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\Client\Client3\bin\Debug\Client3.exe.config
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\Client\Client3\bin\Debug\Client3.exe
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\Client\Client3\bin\Debug\Client3.pdb
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\Client\Client3\bin\Debug\Common.dll
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\Client\Client3\bin\Debug\Common.pdb
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\Client\Client3\obj\Debug\Client3.csprojAssemblyReference.cache
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\Client\Client3\obj\Debug\Client3.Properties.Resources.resources
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\Client\Client3\obj\Debug\Client3.csproj.GenerateResource.cache
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\Client\Client3\obj\Debug\Client3.csproj.CopyComplete
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\Client\Client3\obj\Debug\Client3.exe
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\Client\Client3\obj\Debug\Client3.pdb
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\‏‏Client - עותק (2)\Client3\bin\Debug\Client3.exe.config
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\‏‏Client - עותק (2)\Client3\bin\Debug\Client3.exe
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\‏‏Client - עותק (2)\Client3\bin\Debug\Client3.pdb
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\‏‏Client - עותק (2)\Client3\bin\Debug\Common.dll
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\‏‏Client - עותק (2)\Client3\bin\Debug\Common.pdb
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\‏‏Client - עותק (2)\Client3\obj\Debug\Client3.csprojAssemblyReference.cache
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\‏‏Client - עותק (2)\Client3\obj\Debug\Client3.Properties.Resources.resources
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\‏‏Client - עותק (2)\Client3\obj\Debug\Client3.csproj.GenerateResource.cache
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\‏‏Client - עותק (2)\Client3\obj\Debug\Client3.csproj.CopyComplete
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\‏‏Client - עותק (2)\Client3\obj\Debug\Client3.exe
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\‏‏Client - עותק (2)\Client3\obj\Debug\Client3.pdb
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\‏‏Client8\Client3\bin\Debug\Client3.exe.config
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\‏‏Client8\Client3\bin\Debug\Client3.exe
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\‏‏Client8\Client3\bin\Debug\Client3.pdb
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\‏‏Client8\Client3\bin\Debug\Common.dll
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\‏‏Client8\Client3\bin\Debug\Common.pdb
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\‏‏Client8\Client3\obj\Debug\Client3.csprojAssemblyReference.cache
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\‏‏Client8\Client3\obj\Debug\Client3.Properties.Resources.resources
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\‏‏Client8\Client3\obj\Debug\Client3.csproj.GenerateResource.cache
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\‏‏Client8\Client3\obj\Debug\Client3.csproj.CopyComplete
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\‏‏Client8\Client3\obj\Debug\Client3.exe
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\‏‏Client8\Client3\obj\Debug\Client3.pdb
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\‏‏‏‏Client9\Client3\bin\Debug\Client3.exe.config
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\‏‏‏‏Client9\Client3\bin\Debug\Client3.exe
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\‏‏‏‏Client9\Client3\bin\Debug\Client3.pdb
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\‏‏‏‏Client9\Client3\bin\Debug\Common.dll
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\‏‏‏‏Client9\Client3\bin\Debug\Common.pdb
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\‏‏‏‏Client9\Client3\obj\Debug\Client3.csprojAssemblyReference.cache
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\‏‏‏‏Client9\Client3\obj\Debug\Client3.Properties.Resources.resources
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\‏‏‏‏Client9\Client3\obj\Debug\Client3.csproj.GenerateResource.cache
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\‏‏‏‏Client9\Client3\obj\Debug\Client3.csproj.CopyComplete
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\‏‏‏‏Client9\Client3\obj\Debug\Client3.exe
+D:\יובל\whist1\Project\15_02_Plus_int_SingleCall\‏‏‏‏Client9\Client3\obj\Debug\Client3.pdb
